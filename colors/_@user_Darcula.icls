@@ -1,0 +1,17 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-10-24T11:28:47</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2017.2.3.0.0</property>
+    <property name="modified">2017-11-17T13:51:43</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="BACKGROUND" value="2e2e2e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
