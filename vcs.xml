@@ -6,6 +6,10 @@
           <option name="url" value="http://dt-126/LSAU/LabManager" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://venus2:8081" />
+          <option name="userName" value="asmialek" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\CBK" />
